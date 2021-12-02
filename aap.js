@@ -55,7 +55,31 @@ const menu = [
         img: "./images/item-7.jpeg",
         desc: `Carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
       },
-
+      {
+        id: 8,
+        title: "American Classic",
+        category: "lunch",
+        price: 12.99,
+        img: "./images/item-8.jpeg",
+        desc: `On it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+      },
+      {
+        id: 9,
+        title: "Quarantine Buddy",
+        category: "shakes",
+        price: 16.99,
+        img: "./images/item-9.jpeg",
+        desc: `Skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+      },
+      {
+        id: 10,
+        title: "Bison Steak",
+        category: "dinner",
+        price: 22.99,
+        img: "./images/item-10.jpeg",
+        desc: `Skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+      },
+    ];
 
 
 
