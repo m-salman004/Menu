@@ -1,0 +1,25 @@
+const menu = [
+    {
+      id: 1,
+      title: "Buttermilk Pancakes",
+      category: "breakfast",
+      price: 15.99,
+      img: "./images/item-1.jpeg",
+      desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    },
+    {
+      id: 2,
+      title: "Diner Double",
+      category: "lunch",
+      price: 13.99,
+      img: "./images/item-2.jpeg",
+      desc: `Vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    },
+    {
+      id: 3,
+      title: "Godzilla Milkshake",
+      category: "shakes",
+      price: 6.99,
+      img: "./images/item-3.jpeg",
+      desc: `Ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    },
